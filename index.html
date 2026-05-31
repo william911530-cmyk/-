@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>【三大法人籌碼透視網】</title>
+    <style>
+        body {
+            font-family: "MingLiU", "新細明體", serif;
+            background-color: #FFFFCC; /* 經典的淡黃色背景 */
+            color: #000000;
+        }
+        h1 {
+            color: #0000FF; /* 預設超連結藍 */
+            text-decoration: underline;
+        }
+        table {
+            border-collapse: collapse;
+            background-color: #FFFFFF;
+            margin-top: 20px;
+            width: 80%;
+        }
+        th {
+            background-color: #008080; /* 經典水鴨綠 */
+            color: #FFFFFF;
+            padding: 8px;
+            font-size: 16px;
+        }
+        td {
+            padding: 5px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .marquee-box {
+            background-color: #FF0000;
+            color: #FFFFFF;
+            font-weight: bold;
+            padding: 5px;
+            width: 80%;
+            margin-bottom: 10px;
+        }
+        .footer {
+            margin-top: 50px;
+            font-size: 12px;
+            color: #808080;
+        }
+        a:link { color: #0000FF; }
+        a:visited { color: #800080; }
+        a:active { color: #FF0000; }
+    </style>
+</head>
+<body>
+
+<center>
+    <h1>★☆ 三大法人真實做多追蹤系統 ☆★</h1>
+    
+    <div class="marquee-box">
+        <marquee scrollamount="4">
+            ::: 最新公告 ::: 歡迎蒞臨本站！本系統過濾假買超，嚴格扣除「借券賣出」數量，幫您抓出三大法人【真正】花真金白銀做多的股票！投資有賺有賠，申購前應詳閱公開說明書。
+        </marquee>
+    </div>
+
+    <p>
+        <font color="#800080"><b>資料最後更新時間：</b><span id="update-time">載入中...</span></font><br>
+        <font color="#008000"><b>今日符合檔數：</b><span id="stock-count">0</span> 檔</font>
+    </p>
+
+    <hr width="80%" color="#000000">
+
+    <table border="2" bordercolor="#000000" id="data-table">
+        <thead>
+            <tr>
+                <th>股票代號</th>
+                <th>股票名稱</th>
+                <th>外資真實做多<br><font size="2">(扣除借券/張)</font></th>
+                <th>投信做多<br><font size="2">(張)</font></th>
+                <th>自營商做多<br><font size="2">(張)</font></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td colspan="5">讀取資料中，請稍候...</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="footer">
+        <p>累計參觀人次： <img src="https://counter8.optie.net/134/0000000.gif" alt="假計數器"></p>
+        <p>最佳瀏覽環境：Internet Explorer 6.0 以上版本，螢幕解析度 1024x768</p>
+        <p>Copyright © 2026 台灣籌碼觀測網 All Rights Reserved.</p>
+    </div>
+</center>
+
+<script>
+    // 讀取 Python 產出的 JSON 檔案
+    fetch('chips_data.json')
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('update-time').innerText = data.update_time;
+            document.getElementById('stock-count').innerText = data.total_count;
+            
+            const tbody = document.querySelector('#data-table tbody');
+            tbody.innerHTML = ''; // 清空載入中字樣
+            
+            if(data.data.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="5">今日無符合三大法人皆做多之股票</td></tr>';
+                return;
+            }
+
+            data.data.forEach(stock => {
+                // 經典的斑馬紋單雙行顏色 (淺藍與白交錯)
+                const tr = document.createElement('tr');
+                
+                tr.innerHTML = `
+                    <td><b><a href="https://tw.stock.yahoo.com/quote/${stock.StockID}" target="_blank">${stock.StockID}</a></b></td>
+                    <td>${stock.Name}</td>
+                    <td><font color="red">${stock.Foreign_True_Long}</font></td>
+                    <td><font color="red">${stock.Trust_True_Long}</font></td>
+                    <td><font color="red">${stock.Dealer_True_Long}</font></td>
+                `;
+                tbody.appendChild(tr);
+            });
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            document.querySelector('#data-table tbody').innerHTML = '<tr><td colspan="5"><font color="red">系統發生錯誤或無最新資料</font></td></tr>';
+        });
+</script>
+
+</body>
+</html>
