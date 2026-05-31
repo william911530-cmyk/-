@@ -1,0 +1,39 @@
+name: 每天下午5點更新籌碼資料
+
+on:
+  schedule:
+    # UTC 09:00 相當於台灣時間 17:00 (只在週一到週五執行)
+    - cron: '0 9 * * 1-5'
+  workflow_dispatch: # 保留手動觸發按鈕，方便你隨時測試
+
+permissions:
+  contents: write # 確保機器人有權限把 json 檔推回 Repo
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 取得程式碼 (Checkout repository)
+        uses: actions/checkout@v3
+
+      - name: 設定 Python 環境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 安裝套件 (Install Dependencies)
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pandas
+
+      - name: 執行資料抓取與運算 (Run script)
+        run: python radar_chips.py
+
+      - name: 提交並推送更新的 JSON (Commit and Push)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add chips_data.json
+          # 如果資料有變動才 commit，避免報錯
+          git diff --quiet && git diff --staged --quiet || (git commit -m "自動更新：台股三大法人真實做多資料" && git push)
