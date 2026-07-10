@@ -1,39 +1,39 @@
 {
-    "update_time": "資料日期: 20260709 (更新於 2026-07-09 12:16:35)",
+    "update_time": "資料日期: 20260709 (更新於 2026-07-10 12:02:45)",
     "total_count": 25,
     "data": [
         {
             "StockID": "2408",
             "Name": "南亞科          ",
-            "Foreign_True_Long": 15430,
+            "Foreign_True_Long": 15376,
             "Trust_True_Long": 3250,
             "Dealer_True_Long": 1253
         },
         {
             "StockID": "2324",
             "Name": "仁寶            ",
-            "Foreign_True_Long": 10471,
+            "Foreign_True_Long": 10468,
             "Trust_True_Long": 27,
             "Dealer_True_Long": 981
         },
         {
             "StockID": "2887",
             "Name": "台新新光金      ",
-            "Foreign_True_Long": 6126,
+            "Foreign_True_Long": 6036,
             "Trust_True_Long": 13124,
             "Dealer_True_Long": 666
         },
         {
             "StockID": "2377",
             "Name": "微星            ",
-            "Foreign_True_Long": 5298,
+            "Foreign_True_Long": 5195,
             "Trust_True_Long": 15,
             "Dealer_True_Long": 147
         },
         {
             "StockID": "2356",
             "Name": "英業達          ",
-            "Foreign_True_Long": 3747,
+            "Foreign_True_Long": 3705,
             "Trust_True_Long": 2054,
             "Dealer_True_Long": 11
         },
@@ -47,14 +47,14 @@
         {
             "StockID": "2371",
             "Name": "大同            ",
-            "Foreign_True_Long": 3584,
+            "Foreign_True_Long": 3582,
             "Trust_True_Long": 35,
             "Dealer_True_Long": 11
         },
         {
             "StockID": "2441",
             "Name": "超豐            ",
-            "Foreign_True_Long": 3252,
+            "Foreign_True_Long": 3239,
             "Trust_True_Long": 27,
             "Dealer_True_Long": 293
         },
@@ -75,7 +75,7 @@
         {
             "StockID": "2357",
             "Name": "華碩            ",
-            "Foreign_True_Long": 2162,
+            "Foreign_True_Long": 2157,
             "Trust_True_Long": 73,
             "Dealer_True_Long": 42
         },
@@ -87,32 +87,25 @@
             "Dealer_True_Long": 58
         },
         {
-            "StockID": "3481",
-            "Name": "群創            ",
-            "Foreign_True_Long": 1691,
-            "Trust_True_Long": 21,
-            "Dealer_True_Long": 2477
-        },
-        {
             "StockID": "1216",
             "Name": "統一            ",
-            "Foreign_True_Long": 1192,
+            "Foreign_True_Long": 1189,
             "Trust_True_Long": 45,
             "Dealer_True_Long": 363
         },
         {
             "StockID": "6239",
             "Name": "力成            ",
-            "Foreign_True_Long": 1189,
+            "Foreign_True_Long": 1186,
             "Trust_True_Long": 21,
             "Dealer_True_Long": 314
         },
         {
-            "StockID": "2458",
-            "Name": "義隆            ",
-            "Foreign_True_Long": 670,
-            "Trust_True_Long": 237,
-            "Dealer_True_Long": 10
+            "StockID": "3481",
+            "Name": "群創            ",
+            "Foreign_True_Long": 645,
+            "Trust_True_Long": 21,
+            "Dealer_True_Long": 2477
         },
         {
             "StockID": "2379",
@@ -120,6 +113,13 @@
             "Foreign_True_Long": 629,
             "Trust_True_Long": 10,
             "Dealer_True_Long": 169
+        },
+        {
+            "StockID": "2458",
+            "Name": "義隆            ",
+            "Foreign_True_Long": 601,
+            "Trust_True_Long": 237,
+            "Dealer_True_Long": 10
         },
         {
             "StockID": "8016",
@@ -145,7 +145,7 @@
         {
             "StockID": "2376",
             "Name": "技嘉            ",
-            "Foreign_True_Long": 233,
+            "Foreign_True_Long": 232,
             "Trust_True_Long": 0,
             "Dealer_True_Long": 30
         },
@@ -173,7 +173,7 @@
         {
             "StockID": "9914",
             "Name": "美利達          ",
-            "Foreign_True_Long": 22,
+            "Foreign_True_Long": 21,
             "Trust_True_Long": 7,
             "Dealer_True_Long": 2
         }
