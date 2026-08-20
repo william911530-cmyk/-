@@ -1,11 +1,11 @@
 {
-    "update_time": "資料日期: 20260819 (更新於 2026-08-19 09:39:46)",
+    "update_time": "資料日期: 20260819 (更新於 2026-08-20 09:40:58)",
     "total_count": 15,
     "data": [
         {
             "StockID": "2609",
             "Name": "陽明            ",
-            "Foreign_True_Long": 31191,
+            "Foreign_True_Long": 30975,
             "Trust_True_Long": 6,
             "Dealer_True_Long": 275
         },
@@ -19,21 +19,21 @@
         {
             "StockID": "1402",
             "Name": "遠東新          ",
-            "Foreign_True_Long": 6109,
+            "Foreign_True_Long": 6105,
             "Trust_True_Long": 901,
             "Dealer_True_Long": 168
         },
         {
             "StockID": "2478",
             "Name": "大毅            ",
-            "Foreign_True_Long": 2156,
+            "Foreign_True_Long": 2154,
             "Trust_True_Long": 257,
             "Dealer_True_Long": 86
         },
         {
             "StockID": "2353",
             "Name": "宏碁            ",
-            "Foreign_True_Long": 2130,
+            "Foreign_True_Long": 2124,
             "Trust_True_Long": 24,
             "Dealer_True_Long": 264
         },
@@ -47,21 +47,21 @@
         {
             "StockID": "1718",
             "Name": "中纖            ",
-            "Foreign_True_Long": 1804,
+            "Foreign_True_Long": 1802,
             "Trust_True_Long": 7,
             "Dealer_True_Long": 63
         },
         {
             "StockID": "2637",
             "Name": "慧洋-KY         ",
-            "Foreign_True_Long": 1736,
+            "Foreign_True_Long": 1734,
             "Trust_True_Long": 197,
             "Dealer_True_Long": 42
         },
         {
             "StockID": "3034",
             "Name": "聯詠            ",
-            "Foreign_True_Long": 1250,
+            "Foreign_True_Long": 1244,
             "Trust_True_Long": 66,
             "Dealer_True_Long": 82
         },
@@ -75,7 +75,7 @@
         {
             "StockID": "2393",
             "Name": "億光            ",
-            "Foreign_True_Long": 930,
+            "Foreign_True_Long": 929,
             "Trust_True_Long": 1,
             "Dealer_True_Long": 142
         },
@@ -89,21 +89,21 @@
         {
             "StockID": "2379",
             "Name": "瑞昱            ",
-            "Foreign_True_Long": 638,
+            "Foreign_True_Long": 628,
             "Trust_True_Long": 71,
             "Dealer_True_Long": 141
         },
         {
             "StockID": "4551",
             "Name": "智伸科          ",
-            "Foreign_True_Long": 170,
+            "Foreign_True_Long": 167,
             "Trust_True_Long": 1,
             "Dealer_True_Long": 12
         },
         {
             "StockID": "2006",
             "Name": "東和鋼鐵        ",
-            "Foreign_True_Long": 147,
+            "Foreign_True_Long": 145,
             "Trust_True_Long": 222,
             "Dealer_True_Long": 42
         }
