@@ -1,349 +1,475 @@
 {
-    "update_time": "資料日期: 20261027 (更新於 2026-10-27 15:15:46)",
-    "total_count": 49,
+    "update_time": "資料日期: 20261028 (更新於 2026-10-28 15:52:10)",
+    "total_count": 67,
     "data": [
+        {
+            "StockID": "2409",
+            "Name": "友達            ",
+            "Foreign_True_Long": 58460,
+            "Trust_True_Long": 181,
+            "Dealer_True_Long": 9162
+        },
+        {
+            "StockID": "2344",
+            "Name": "華邦電          ",
+            "Foreign_True_Long": 25152,
+            "Trust_True_Long": 179,
+            "Dealer_True_Long": 1208
+        },
+        {
+            "StockID": "3481",
+            "Name": "群創            ",
+            "Foreign_True_Long": 18004,
+            "Trust_True_Long": 193,
+            "Dealer_True_Long": 3883
+        },
         {
             "StockID": "6770",
             "Name": "力積電          ",
-            "Foreign_True_Long": 55917,
-            "Trust_True_Long": 4937,
-            "Dealer_True_Long": 1686
-        },
-        {
-            "StockID": "2356",
-            "Name": "英業達          ",
-            "Foreign_True_Long": 16598,
-            "Trust_True_Long": 969,
-            "Dealer_True_Long": 191
-        },
-        {
-            "StockID": "2408",
-            "Name": "南亞科          ",
-            "Foreign_True_Long": 11203,
-            "Trust_True_Long": 490,
-            "Dealer_True_Long": 866
-        },
-        {
-            "StockID": "5880",
-            "Name": "合庫金          ",
-            "Foreign_True_Long": 10718,
-            "Trust_True_Long": 1042,
-            "Dealer_True_Long": 1037
-        },
-        {
-            "StockID": "1326",
-            "Name": "台化            ",
-            "Foreign_True_Long": 9085,
-            "Trust_True_Long": 2000,
-            "Dealer_True_Long": 155
+            "Foreign_True_Long": 17217,
+            "Trust_True_Long": 369,
+            "Dealer_True_Long": 690
         },
         {
             "StockID": "2324",
             "Name": "仁寶            ",
-            "Foreign_True_Long": 8075,
-            "Trust_True_Long": 83,
-            "Dealer_True_Long": 322
-        },
-        {
-            "StockID": "2885",
-            "Name": "元大金          ",
-            "Foreign_True_Long": 6057,
-            "Trust_True_Long": 1390,
-            "Dealer_True_Long": 1006
-        },
-        {
-            "StockID": "1216",
-            "Name": "統一            ",
-            "Foreign_True_Long": 5176,
-            "Trust_True_Long": 213,
-            "Dealer_True_Long": 632
-        },
-        {
-            "StockID": "2327",
-            "Name": "國巨*           ",
-            "Foreign_True_Long": 5023,
-            "Trust_True_Long": 469,
-            "Dealer_True_Long": 501
+            "Foreign_True_Long": 12492,
+            "Trust_True_Long": 111,
+            "Dealer_True_Long": 416
         },
         {
             "StockID": "2317",
             "Name": "鴻海            ",
-            "Foreign_True_Long": 4958,
-            "Trust_True_Long": 828,
-            "Dealer_True_Long": 1323
+            "Foreign_True_Long": 11295,
+            "Trust_True_Long": 216,
+            "Dealer_True_Long": 566
         },
         {
-            "StockID": "3702",
-            "Name": "大聯大          ",
-            "Foreign_True_Long": 4700,
-            "Trust_True_Long": 106,
-            "Dealer_True_Long": 167
+            "StockID": "1303",
+            "Name": "南亞            ",
+            "Foreign_True_Long": 10663,
+            "Trust_True_Long": 559,
+            "Dealer_True_Long": 515
         },
         {
-            "StockID": "2449",
-            "Name": "京元電子        ",
-            "Foreign_True_Long": 4488,
-            "Trust_True_Long": 744,
-            "Dealer_True_Long": 477
+            "StockID": "3231",
+            "Name": "緯創            ",
+            "Foreign_True_Long": 9179,
+            "Trust_True_Long": 439,
+            "Dealer_True_Long": 974
         },
         {
-            "StockID": "2337",
-            "Name": "旺宏            ",
-            "Foreign_True_Long": 3907,
-            "Trust_True_Long": 169,
-            "Dealer_True_Long": 269
+            "StockID": "2885",
+            "Name": "元大金          ",
+            "Foreign_True_Long": 7051,
+            "Trust_True_Long": 1743,
+            "Dealer_True_Long": 393
         },
         {
-            "StockID": "2382",
-            "Name": "廣達            ",
-            "Foreign_True_Long": 3895,
-            "Trust_True_Long": 589,
-            "Dealer_True_Long": 343
+            "StockID": "2327",
+            "Name": "國巨*           ",
+            "Foreign_True_Long": 7003,
+            "Trust_True_Long": 26,
+            "Dealer_True_Long": 335
         },
         {
             "StockID": "2882",
             "Name": "國泰金          ",
-            "Foreign_True_Long": 3610,
-            "Trust_True_Long": 371,
-            "Dealer_True_Long": 846
+            "Foreign_True_Long": 5446,
+            "Trust_True_Long": 202,
+            "Dealer_True_Long": 142
         },
         {
-            "StockID": "3006",
-            "Name": "晶豪科          ",
-            "Foreign_True_Long": 3530,
-            "Trust_True_Long": 19,
-            "Dealer_True_Long": 304
+            "StockID": "2408",
+            "Name": "南亞科          ",
+            "Foreign_True_Long": 4913,
+            "Trust_True_Long": 447,
+            "Dealer_True_Long": 652
         },
         {
-            "StockID": "2881",
-            "Name": "富邦金          ",
-            "Foreign_True_Long": 3216,
-            "Trust_True_Long": 394,
-            "Dealer_True_Long": 571
+            "StockID": "0056",
+            "Name": "元大高股息      ",
+            "Foreign_True_Long": 4429,
+            "Trust_True_Long": 505,
+            "Dealer_True_Long": 2891
         },
         {
-            "StockID": "4938",
-            "Name": "和碩            ",
-            "Foreign_True_Long": 2458,
-            "Trust_True_Long": 4,
-            "Dealer_True_Long": 117
-        },
-        {
-            "StockID": "2377",
-            "Name": "微星            ",
-            "Foreign_True_Long": 2171,
-            "Trust_True_Long": 6,
-            "Dealer_True_Long": 52
-        },
-        {
-            "StockID": "9945",
-            "Name": "潤泰新          ",
-            "Foreign_True_Long": 1626,
-            "Trust_True_Long": 7,
-            "Dealer_True_Long": 134
-        },
-        {
-            "StockID": "2892",
-            "Name": "第一金          ",
-            "Foreign_True_Long": 1458,
-            "Trust_True_Long": 1274,
-            "Dealer_True_Long": 815
-        },
-        {
-            "StockID": "2603",
-            "Name": "長榮            ",
-            "Foreign_True_Long": 1225,
-            "Trust_True_Long": 80,
-            "Dealer_True_Long": 102
-        },
-        {
-            "StockID": "2376",
-            "Name": "技嘉            ",
-            "Foreign_True_Long": 854,
-            "Trust_True_Long": 15,
-            "Dealer_True_Long": 43
+            "StockID": "6239",
+            "Name": "力成            ",
+            "Foreign_True_Long": 4357,
+            "Trust_True_Long": 531,
+            "Dealer_True_Long": 206
         },
         {
             "StockID": "2451",
             "Name": "創見            ",
-            "Foreign_True_Long": 794,
-            "Trust_True_Long": 103,
-            "Dealer_True_Long": 45
+            "Foreign_True_Long": 3179,
+            "Trust_True_Long": 7,
+            "Dealer_True_Long": 25
         },
         {
-            "StockID": "3653",
-            "Name": "健策            ",
-            "Foreign_True_Long": 738,
-            "Trust_True_Long": 58,
-            "Dealer_True_Long": 19
+            "StockID": "2301",
+            "Name": "光寶科          ",
+            "Foreign_True_Long": 3105,
+            "Trust_True_Long": 115,
+            "Dealer_True_Long": 125
         },
         {
-            "StockID": "2412",
-            "Name": "中華電          ",
-            "Foreign_True_Long": 555,
-            "Trust_True_Long": 830,
-            "Dealer_True_Long": 71
+            "StockID": "3714",
+            "Name": "富采            ",
+            "Foreign_True_Long": 2980,
+            "Trust_True_Long": 1,
+            "Dealer_True_Long": 18
         },
         {
-            "StockID": "6168",
-            "Name": "宏齊            ",
-            "Foreign_True_Long": 501,
-            "Trust_True_Long": 78,
+            "StockID": "2352",
+            "Name": "佳世達          ",
+            "Foreign_True_Long": 2449,
+            "Trust_True_Long": 10,
+            "Dealer_True_Long": 36
+        },
+        {
+            "StockID": "1101",
+            "Name": "台泥            ",
+            "Foreign_True_Long": 1731,
+            "Trust_True_Long": 6,
+            "Dealer_True_Long": 1187
+        },
+        {
+            "StockID": "3045",
+            "Name": "台灣大          ",
+            "Foreign_True_Long": 1690,
+            "Trust_True_Long": 108,
+            "Dealer_True_Long": 305
+        },
+        {
+            "StockID": "2881",
+            "Name": "富邦金          ",
+            "Foreign_True_Long": 1531,
+            "Trust_True_Long": 190,
+            "Dealer_True_Long": 67
+        },
+        {
+            "StockID": "2393",
+            "Name": "億光            ",
+            "Foreign_True_Long": 1461,
+            "Trust_True_Long": 8,
+            "Dealer_True_Long": 105
+        },
+        {
+            "StockID": "2382",
+            "Name": "廣達            ",
+            "Foreign_True_Long": 1390,
+            "Trust_True_Long": 2,
+            "Dealer_True_Long": 10
+        },
+        {
+            "StockID": "2603",
+            "Name": "長榮            ",
+            "Foreign_True_Long": 1181,
+            "Trust_True_Long": 55,
+            "Dealer_True_Long": 102
+        },
+        {
+            "StockID": "1504",
+            "Name": "東元            ",
+            "Foreign_True_Long": 1129,
+            "Trust_True_Long": 10,
+            "Dealer_True_Long": 78
+        },
+        {
+            "StockID": "2615",
+            "Name": "萬海            ",
+            "Foreign_True_Long": 1049,
+            "Trust_True_Long": 7,
+            "Dealer_True_Long": 49
+        },
+        {
+            "StockID": "3006",
+            "Name": "晶豪科          ",
+            "Foreign_True_Long": 1032,
+            "Trust_True_Long": 5,
+            "Dealer_True_Long": 92
+        },
+        {
+            "StockID": "1717",
+            "Name": "長興            ",
+            "Foreign_True_Long": 887,
+            "Trust_True_Long": 2,
+            "Dealer_True_Long": 24
+        },
+        {
+            "StockID": "1605",
+            "Name": "華新            ",
+            "Foreign_True_Long": 739,
+            "Trust_True_Long": 4,
+            "Dealer_True_Long": 30
+        },
+        {
+            "StockID": "1809",
+            "Name": "中釉            ",
+            "Foreign_True_Long": 652,
+            "Trust_True_Long": 2,
+            "Dealer_True_Long": 17
+        },
+        {
+            "StockID": "5388",
+            "Name": "中磊            ",
+            "Foreign_True_Long": 594,
+            "Trust_True_Long": 2,
+            "Dealer_True_Long": 1
+        },
+        {
+            "StockID": "2441",
+            "Name": "超豐            ",
+            "Foreign_True_Long": 551,
+            "Trust_True_Long": 2,
+            "Dealer_True_Long": 33
+        },
+        {
+            "StockID": "3661",
+            "Name": "世芯-KY         ",
+            "Foreign_True_Long": 507,
+            "Trust_True_Long": 3,
+            "Dealer_True_Long": 125
+        },
+        {
+            "StockID": "2360",
+            "Name": "致茂            ",
+            "Foreign_True_Long": 382,
+            "Trust_True_Long": 3,
+            "Dealer_True_Long": 88
+        },
+        {
+            "StockID": "2606",
+            "Name": "裕民            ",
+            "Foreign_True_Long": 367,
+            "Trust_True_Long": 5,
+            "Dealer_True_Long": 13
+        },
+        {
+            "StockID": "6531",
+            "Name": "愛普*           ",
+            "Foreign_True_Long": 356,
+            "Trust_True_Long": 4,
+            "Dealer_True_Long": 3
+        },
+        {
+            "StockID": "8070",
+            "Name": "長華*           ",
+            "Foreign_True_Long": 345,
+            "Trust_True_Long": 3,
+            "Dealer_True_Long": 4
+        },
+        {
+            "StockID": "6191",
+            "Name": "精成科          ",
+            "Foreign_True_Long": 334,
+            "Trust_True_Long": 6,
+            "Dealer_True_Long": 59
+        },
+        {
+            "StockID": "2439",
+            "Name": "美律            ",
+            "Foreign_True_Long": 328,
+            "Trust_True_Long": 11,
+            "Dealer_True_Long": 26
+        },
+        {
+            "StockID": "3030",
+            "Name": "德律            ",
+            "Foreign_True_Long": 298,
+            "Trust_True_Long": 1,
+            "Dealer_True_Long": 84
+        },
+        {
+            "StockID": "2838",
+            "Name": "聯邦銀          ",
+            "Foreign_True_Long": 238,
+            "Trust_True_Long": 4,
+            "Dealer_True_Long": 48
+        },
+        {
+            "StockID": "5522",
+            "Name": "遠雄            ",
+            "Foreign_True_Long": 231,
+            "Trust_True_Long": 1,
+            "Dealer_True_Long": 9
+        },
+        {
+            "StockID": "3008",
+            "Name": "大立光          ",
+            "Foreign_True_Long": 224,
+            "Trust_True_Long": 75,
+            "Dealer_True_Long": 14
+        },
+        {
+            "StockID": "6278",
+            "Name": "台表科          ",
+            "Foreign_True_Long": 218,
+            "Trust_True_Long": 355,
+            "Dealer_True_Long": 199
+        },
+        {
+            "StockID": "3014",
+            "Name": "聯陽            ",
+            "Foreign_True_Long": 217,
+            "Trust_True_Long": 3,
+            "Dealer_True_Long": 9
+        },
+        {
+            "StockID": "3044",
+            "Name": "健鼎            ",
+            "Foreign_True_Long": 207,
+            "Trust_True_Long": 13,
+            "Dealer_True_Long": 64
+        },
+        {
+            "StockID": "3380",
+            "Name": "明泰            ",
+            "Foreign_True_Long": 183,
+            "Trust_True_Long": 5,
+            "Dealer_True_Long": 8
+        },
+        {
+            "StockID": "4566",
+            "Name": "時碩工業        ",
+            "Foreign_True_Long": 182,
+            "Trust_True_Long": 2,
+            "Dealer_True_Long": 10
+        },
+        {
+            "StockID": "6405",
+            "Name": "悅城            ",
+            "Foreign_True_Long": 182,
+            "Trust_True_Long": 1,
+            "Dealer_True_Long": 2
+        },
+        {
+            "StockID": "6526",
+            "Name": "達發            ",
+            "Foreign_True_Long": 177,
+            "Trust_True_Long": 2,
+            "Dealer_True_Long": 53
+        },
+        {
+            "StockID": "3591",
+            "Name": "艾笛森          ",
+            "Foreign_True_Long": 165,
+            "Trust_True_Long": 2,
+            "Dealer_True_Long": 1
+        },
+        {
+            "StockID": "6515",
+            "Name": "穎崴            ",
+            "Foreign_True_Long": 132,
+            "Trust_True_Long": 23,
+            "Dealer_True_Long": 1
+        },
+        {
+            "StockID": "2413",
+            "Name": "環科            ",
+            "Foreign_True_Long": 121,
+            "Trust_True_Long": 1,
+            "Dealer_True_Long": 1
+        },
+        {
+            "StockID": "2201",
+            "Name": "裕隆            ",
+            "Foreign_True_Long": 113,
+            "Trust_True_Long": 1,
+            "Dealer_True_Long": 12
+        },
+        {
+            "StockID": "3711",
+            "Name": "日月光投控      ",
+            "Foreign_True_Long": 108,
+            "Trust_True_Long": 5189,
+            "Dealer_True_Long": 409
+        },
+        {
+            "StockID": "5269",
+            "Name": "祥碩            ",
+            "Foreign_True_Long": 101,
+            "Trust_True_Long": 8,
+            "Dealer_True_Long": 6
+        },
+        {
+            "StockID": "2527",
+            "Name": "宏璟            ",
+            "Foreign_True_Long": 98,
+            "Trust_True_Long": 1,
+            "Dealer_True_Long": 0
+        },
+        {
+            "StockID": "4770",
+            "Name": "上品            ",
+            "Foreign_True_Long": 97,
+            "Trust_True_Long": 1,
+            "Dealer_True_Long": 38
+        },
+        {
+            "StockID": "7769",
+            "Name": "鴻勁            ",
+            "Foreign_True_Long": 89,
+            "Trust_True_Long": 64,
+            "Dealer_True_Long": 8
+        },
+        {
+            "StockID": "6189",
+            "Name": "豐藝            ",
+            "Foreign_True_Long": 77,
+            "Trust_True_Long": 3,
+            "Dealer_True_Long": 7
+        },
+        {
+            "StockID": "6166",
+            "Name": "凌華            ",
+            "Foreign_True_Long": 73,
+            "Trust_True_Long": 2,
+            "Dealer_True_Long": 22
+        },
+        {
+            "StockID": "3010",
+            "Name": "華立            ",
+            "Foreign_True_Long": 57,
+            "Trust_True_Long": 1,
+            "Dealer_True_Long": 7
+        },
+        {
+            "StockID": "2467",
+            "Name": "志聖            ",
+            "Foreign_True_Long": 45,
+            "Trust_True_Long": 1,
+            "Dealer_True_Long": 8
+        },
+        {
+            "StockID": "2404",
+            "Name": "漢唐            ",
+            "Foreign_True_Long": 29,
+            "Trust_True_Long": 3,
+            "Dealer_True_Long": 7
+        },
+        {
+            "StockID": "3617",
+            "Name": "碩天            ",
+            "Foreign_True_Long": 29,
+            "Trust_True_Long": 1,
             "Dealer_True_Long": 1
         },
         {
             "StockID": "3005",
             "Name": "神基            ",
-            "Foreign_True_Long": 499,
-            "Trust_True_Long": 12,
-            "Dealer_True_Long": 33
-        },
-        {
-            "StockID": "2345",
-            "Name": "智邦            ",
-            "Foreign_True_Long": 474,
-            "Trust_True_Long": 21,
-            "Dealer_True_Long": 55
-        },
-        {
-            "StockID": "3533",
-            "Name": "嘉澤            ",
-            "Foreign_True_Long": 451,
-            "Trust_True_Long": 56,
-            "Dealer_True_Long": 33
-        },
-        {
-            "StockID": "2388",
-            "Name": "威盛            ",
-            "Foreign_True_Long": 367,
-            "Trust_True_Long": 28,
-            "Dealer_True_Long": 24
-        },
-        {
-            "StockID": "2486",
-            "Name": "一詮            ",
-            "Foreign_True_Long": 310,
-            "Trust_True_Long": 1,
-            "Dealer_True_Long": 3
-        },
-        {
-            "StockID": "6446",
-            "Name": "藥華藥          ",
-            "Foreign_True_Long": 285,
-            "Trust_True_Long": 68,
-            "Dealer_True_Long": 8
-        },
-        {
-            "StockID": "6933",
-            "Name": "AMAX-KY         ",
-            "Foreign_True_Long": 282,
-            "Trust_True_Long": 8,
-            "Dealer_True_Long": 22
-        },
-        {
-            "StockID": "2030",
-            "Name": "彰源            ",
-            "Foreign_True_Long": 271,
-            "Trust_True_Long": 100,
-            "Dealer_True_Long": 9
-        },
-        {
-            "StockID": "2301",
-            "Name": "光寶科          ",
-            "Foreign_True_Long": 269,
-            "Trust_True_Long": 100,
-            "Dealer_True_Long": 456
-        },
-        {
-            "StockID": "6531",
-            "Name": "愛普*           ",
-            "Foreign_True_Long": 228,
-            "Trust_True_Long": 72,
-            "Dealer_True_Long": 62
-        },
-        {
-            "StockID": "1476",
-            "Name": "儒鴻            ",
-            "Foreign_True_Long": 226,
-            "Trust_True_Long": 35,
-            "Dealer_True_Long": 5
-        },
-        {
-            "StockID": "3592",
-            "Name": "瑞鼎            ",
-            "Foreign_True_Long": 215,
-            "Trust_True_Long": 1,
-            "Dealer_True_Long": 3
-        },
-        {
-            "StockID": "2201",
-            "Name": "裕隆            ",
-            "Foreign_True_Long": 196,
-            "Trust_True_Long": 1,
-            "Dealer_True_Long": 2
-        },
-        {
-            "StockID": "4961",
-            "Name": "天鈺            ",
-            "Foreign_True_Long": 159,
-            "Trust_True_Long": 2,
-            "Dealer_True_Long": 4
-        },
-        {
-            "StockID": "6426",
-            "Name": "統新            ",
-            "Foreign_True_Long": 147,
+            "Foreign_True_Long": 18,
             "Trust_True_Long": 13,
-            "Dealer_True_Long": 0
+            "Dealer_True_Long": 11
         },
         {
-            "StockID": "6166",
-            "Name": "凌華            ",
-            "Foreign_True_Long": 141,
-            "Trust_True_Long": 72,
-            "Dealer_True_Long": 4
-        },
-        {
-            "StockID": "2455",
-            "Name": "全新            ",
-            "Foreign_True_Long": 85,
-            "Trust_True_Long": 182,
-            "Dealer_True_Long": 52
-        },
-        {
-            "StockID": "6861",
-            "Name": "睿生光電        ",
-            "Foreign_True_Long": 84,
-            "Trust_True_Long": 11,
-            "Dealer_True_Long": 4
-        },
-        {
-            "StockID": "2441",
-            "Name": "超豐            ",
-            "Foreign_True_Long": 66,
-            "Trust_True_Long": 1,
-            "Dealer_True_Long": 17
-        },
-        {
-            "StockID": "2059",
-            "Name": "川湖            ",
-            "Foreign_True_Long": 63,
-            "Trust_True_Long": 32,
-            "Dealer_True_Long": 12
-        },
-        {
-            "StockID": "8081",
-            "Name": "致新            ",
-            "Foreign_True_Long": 37,
-            "Trust_True_Long": 23,
-            "Dealer_True_Long": 2
-        },
-        {
-            "StockID": "6196",
-            "Name": "帆宣            ",
-            "Foreign_True_Long": 1,
-            "Trust_True_Long": 56,
-            "Dealer_True_Long": 4
+            "StockID": "009827",
+            "Name": "玉山未來全球算力",
+            "Foreign_True_Long": 2,
+            "Trust_True_Long": 1000,
+            "Dealer_True_Long": 793
         }
     ]
 }
